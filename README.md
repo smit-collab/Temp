@@ -1,3 +1,3 @@
-# Medicare Payments for Medical Procedures
+# Medicare Payments for medical procedures
 
 # Product sales
